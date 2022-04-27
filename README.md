@@ -1,66 +1,141 @@
 # Hi there, I'm Oladimeji - aka [Crestward] 👋 
 
-## I'm a Fullstack Web developer and Data Analyst!!
+<h1 align="center">
+Hi, I'm Oladimeji Adeyemi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://gpvc.arturio.dev/Crestward" alt="Profile views" align='right'/> <a href="https://github.com/Crestward/Crestward"> </a> 
+<br/>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3 and NFTs
-- ⚡ Fun hobby: I love to read Chinese novels 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://www.google.com)
-[![website](./img/globe-dark.svg)]
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/adeyemi-oladimeji-490696133-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/adeyemi-oladimeji-490696133-dark-mode-only)
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
-<br />
-<br />
-
----
-
-### 📺 Data Analystic Portfolio
-
-<!-- Portfolio -->
-- [🔴 ]
-- [🤯]
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- 
-- 
-<!-- END -->
+```
+Crestward @github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Data Analyst
+🌱 I’m currently learning everything 🤣
+📚 I have a Bachelors degree in Economics and a Masters degree in Marketing and Consumer Studies from the University of Ibadan, Nigeria
+📝 I have a strong interest in Web3 and NFTs
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Data Science and Machine Learning
+🌟 Main languages: Python & JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with JavaScript and Python web development frameworks
+🎵 Love Chinese novels, history, new food, anime and all kinds of music
+```
+<hr>
 
 
+## 🛠️ My Favorite Tools
 
----
+### 👨‍💻 Programming Languages
 
-### 📕 Web Development Portfolio
+<p>
+    <a href="https://github.com/Crestward/Crestward"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/Crestward/Crestward"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/Crestward/Crestward"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Crestward/Crestward"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/Crestward/Crestward"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Crestward/Crestward"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-<!-- START -->
-- 
-- 
-- 
-- 
-- 
+### 🧰 Frameworks, Libraries and 
 
-<!-- END -->
+<p>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23150458.svg?logo=express&logoColor=white%22"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23150458.svg?logo=flask&logoColor=white%22"></a>
+
+
+
+
+
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSql%20-%23150458.svg?logo=postgresql&logoColor=white%22"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB%20-%23150458.svg?logo=MongoDB&logoColor=white%22"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%23150458.svg?logo=microsoft-excel&logoColor=white%22"></a>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23150458.svg?logo=tableau&logoColor=white%22"></a>
+    <a href="#"><img alt="Power-Bi" src="https://img.shields.io/badge/Power-BI%20-%23150458.svg?logo=power-bi&logoColor=white%22"></a>
+
+</p>
+
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="#"><img alt="HP Omen" src="https://img.shields.io/badge/HP-Omen%20-%23150458.svg?logo=hp&logoColor=white%22"></a>
+</p>
+
+
+## GitHub Stats
+
+
+|                                                                     Crestward's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Crestward&theme=react-dark&hide_border=true&area=true) |
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&theme=algolia)              | 
+| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crestward&theme=algolia)                    | 
+    
+
+|                                                                                                      Crestward's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+
+
+
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Let's Work on Your Project Together!
+
+If you have any questions about web development or data analytics, or want to hire me to build web applications and unravel the hidden stories behind your data. feel free to <a href="mailto:oladimeji759@gmail.com">contact me through email</a> me. 
+You can also check out my <a href="www.linkedin.com/in/adeyemi-oladimeji-490696133">LinkedIn</a> profile 
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
+
+------
+Credits: [Crestward](https://github.com/Crestward)
+Last Edited On: 27/04/2022
+
+
+
