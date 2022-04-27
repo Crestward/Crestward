@@ -1,6 +1,3 @@
-<!--
-**Crestward/Crestward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Jesse - aka [Crestward] 👋 
 
 ## I'm a Fullstack Web developer and Data Analyst!!
