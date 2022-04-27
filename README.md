@@ -1,6 +1,5 @@
 # Hi there, I'm Oladimeji - aka [Crestward] 👋 
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/Crestward" alt="Profile views" align='right'/> <a href="https://github.com/Crestward/Crestward"> </a> 
 <br/>
 
