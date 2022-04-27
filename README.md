@@ -28,7 +28,6 @@ Crestward @github
 <hr>
 
 ## 🙋‍♀️ Let's Connect
-<p align="center">
 <a href="mailto:oladimeji759@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 <a href="https://github.com/Crestward"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
