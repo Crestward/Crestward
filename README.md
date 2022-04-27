@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [Crestward] 👋 
+# Hi there, I'm Oladimeji - aka [Crestward] 👋 
 
 ## I'm a Fullstack Web developer and Data Analyst!!
 
