@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](www.google.com)
+[![website](./img/globe-light.svg)](https://www.google.com)
 [![website](./img/globe-dark.svg)]
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/adeyemi-oladimeji-490696133-light-mode-only)
