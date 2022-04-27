@@ -44,7 +44,7 @@ Crestward @github
     <a href="https://github.com/Crestward/Crestward"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/Crestward/Crestward"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Frameworks, Libraries and 
+### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23150458.svg?logo=express&logoColor=white%22"></a>
