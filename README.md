@@ -3,7 +3,7 @@
 ## I'm a Fullstack Web developer and Data Analyst!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web3 and NFTs
 - ⚡ Fun hobby: I love to read Chinese novels 
 
