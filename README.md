@@ -1,6 +1,6 @@
 # Hi there, I'm Oladimeji - aka [Crestward] 👋 
 
- <img src="https://gpvc.arturio.dev/Crestward" alt="Profile views" align='right'/> <a href="https://github.com/Crestward/Crestward"> </a> 
+ <img src="https://gpvc.arturio.dev/Crestward" alt="Profile views" align='center'/> <a href="https://github.com/Crestward/Crestward"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
