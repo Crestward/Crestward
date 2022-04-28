@@ -19,7 +19,7 @@ Crestward @github
 📚 I have a Bachelors degree in Economics and a Masters degree in Marketing and Consumer Studies from the University of Ibadan, Nigeria
 📝 I have a strong interest in Web3 and NFTs
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Data Science and Machine Learning
+🌱 Learning about Machine Learning and Neural Networks
 🌟 Main languages: Python & JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with JavaScript and Python web development frameworks
