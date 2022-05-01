@@ -93,9 +93,9 @@ Crestward @github
     <a href="#"><img alt="HP Omen" src="https://img.shields.io/badge/HP-Omen%20-%23150458.svg?logo=hp&logoColor=white%22"></a>
 </p>
 
-### 👨🏽‍💻 Portfolio
+### 📝 Portfolio
 #### Data Analytics
-- ETL-Pipeline (https://github.com/Crestward/Data-Analytics-Portfolio#etl-pipeline)
+- [ETL-Pipeline](https://github.com/Crestward/Data-Analytics-Portfolio#etl-pipeline)
 
 ## GitHub Stats
 
