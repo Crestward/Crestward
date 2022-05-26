@@ -16,7 +16,7 @@ Crestward @github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Data Analyst
 🌱 I’m currently learning everything 🤣
-📚 I have a Bachelors degree in Economics and a Masters degree in Marketing and Consumer Studies from the University of Ibadan, Nigeria
+📚 I have a Bachelors degree in Economics and currently pursuing a Masters degree in Marketing and Consumer Studies from the University of Ibadan, Nigeria
 📝 I have a strong interest in Web3 and NFTs
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Machine Learning and Neural Networks
