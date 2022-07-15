@@ -97,7 +97,7 @@ Crestward @github
 #### Data Analytics
 - [ETL-Pipeline](https://github.com/Crestward/Data-Analytics-Portfolio#etl-pipeline)
 #### Data Science & ML
-- [Customer Churn and Employee Turnover prediction](https://github.com/Crestward/Machine-Learning-Portfolio#Employee and Customer Churn)
+- [Customer Churn and Employee Turnover prediction](https://github.com/Crestward/Machine-Learning-Portfolio#Employee-and-Customer-Churn)
 
 ## GitHub Stats
 
