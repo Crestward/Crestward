@@ -30,6 +30,45 @@ Crestward @github
 <a href="https://github.com/Crestward"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 
+
+## Skills
+<p>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%230052CC.svg?logo=scikitlearn&logoColor=white"></a>
+  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apache-spark&logoColor=white"></a>
+  <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-%23FF7A00.svg?logo=databricks&logoColor=white"></a>
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power--BI-%2300A6ED.svg?logo=power-bi&logoColor=white"></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23007AC0.svg?logo=tableau&logoColor=white"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2322A6F7.svg?logo=selenium&logoColor=white"></a>
+  <a href="#"><img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-%23FF6B6B.svg"></a>
+</p>
+
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <a href="#"><img alt="AWS Solutions Architect" src="https://img.shields.io/badge/AWS%20Solutions%20Architect-2025-brightgreen"></a>
+  <a href="#"><img alt="DP-300" src="https://img.shields.io/badge/Microsoft_DP300-2025-blue"></a>
+  <a href="#"><img alt="PL-300" src="https://img.shields.io/badge/Microsoft_PL300-2025-blueviolet"></a>
+  <a href="#"><img alt="Google Cybersecurity" src="https://img.shields.io/badge/Google_Cybersecurity-2023-yellow"></a>
+  <a href="#"><img alt="IBM Data Science" src="https://img.shields.io/badge/IBM_Data_Science-2023-blue"></a>
+  <a href="#"><img alt="Cisco Cybersecurity" src="https://img.shields.io/badge/Cisco_Cybersecurity-2023-lightgrey"></a>
+  <a href="#"><img alt="AWS ML Foundations" src="https://img.shields.io/badge/AWS_ML_Foundations-2023-orange"></a>
+  <a href="#"><img alt="Immersive Labs OSINT" src="https://img.shields.io/badge/Immersive_OSINT-2023-success"></a>
+  <a href="#"><img alt="CFI Math" src="https://img.shields.io/badge/CFI_Math-2022-blue"></a>
+</p>
+
+
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
