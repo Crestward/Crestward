@@ -31,7 +31,13 @@ Crestward @github
 <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 
 
-## Skills
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&locale=en&theme=algolia)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crestward&langs_count=8&theme=algolia&layout=compact)
+- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Crestward&theme=react-dark&hide_border=true)
+
+
+
+## 🎯 Skills
 <p>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white"></a>
