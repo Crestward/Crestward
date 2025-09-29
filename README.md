@@ -14,15 +14,13 @@
 ```
 Crestward @github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Data Analyst
-🌱 I’m currently learning everything 🤣
-📚 I have a Bachelors degree in Economics and currently pursuing a Masters degree in Data Science at Cardiff Metropolitan University, Cardiff, Wales, United Kingdom
-📝 I have a strong interest in Web3 and NFTs
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Machine Learning and Neural Networks
+💻 I am a self taught Data Scientist and AI Solutions Architect
+🌱 I’m still currently learning everything 🤣
+📚 I have a Bachelors degree in Economics and Masters degree in Data Science 
+🔭 Working on Deep Learning & AL models
 🌟 Main languages: Python & JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with JavaScript and Python web development frameworks
+🚩 Interested in using AI models in production environments
+💖 In a complicated relationship with several LLMs
 🎵 Love Chinese novels, history, new food, anime and all kinds of music
 ```
 <hr>
@@ -93,12 +91,6 @@ Crestward @github
     <a href="#"><img alt="HP Omen" src="https://img.shields.io/badge/HP-Omen%20-%23150458.svg?logo=hp&logoColor=white%22"></a>
 </p>
 
-### 📝 Portfolio
-#### Data Analytics
-- [ETL-Pipeline](https://github.com/Crestward/Data-Analytics-Portfolio#etl-pipeline)
-#### Data Science & ML
-- [Customer Churn and Employee Turnover prediction](https://github.com/Crestward/Machine-Learning-Portfolio#Employee-and-Customer-Churn)
-- [RNG prediction (Ongoing project)](https://github.com/Crestward/Machine-Learning-Portfolio#RNG-prediction)
 
 ## GitHub Stats
 
