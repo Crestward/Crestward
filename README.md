@@ -12,7 +12,7 @@
 <hr>
 
 ---
-```python
+```
 crestward = {
     "role":        "AI Engineer",
     "focus":       ["Agentic AI", "LLM Engineering", "AI Red Teaming", "On-Device Inference"],
