@@ -15,7 +15,7 @@
 ```
 Crestward @github
 -------------------------
-💻 I am a self taught Data Scientist and AI Solutions Architect
+💻 I am a self taught Data Scientist and AI Engineer
 🌱 I’m still currently learning everything 🤣
 📚 I have a Bachelors degree in Economics and Masters degree in Data Science 
 🔭 Working on Deep Learning & AL models
@@ -98,8 +98,6 @@ Secure data pipeline for tamper-proof media authentication using SHA-256 cryptog
 
 ---
 
-
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -160,17 +158,6 @@ Secure data pipeline for tamper-proof media authentication using SHA-256 cryptog
 <p>
     <a href="#"><img alt="HP Omen" src="https://img.shields.io/badge/HP-Omen%20-%23150458.svg?logo=hp&logoColor=white%22"></a>
 </p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crestward&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-
-
 
 
 <table style="border: none">
