@@ -5,11 +5,25 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?Crestward" alt="Profile views" align='center'/> <a href="https://github.com/Crestward/Crestward"> </a>  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI Solutions Architect;Data+Scientist;Applied AI Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines==AI+Engineer;Data+Scientist;Applied AI Developer;DS%20|%20AI%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 <hr>
+
+---
+```python
+crestward = {
+    "role":        "AI Engineer",
+    "focus":       ["Agentic AI", "LLM Engineering", "AI Red Teaming", "On-Device Inference"],
+    "stack":       ["CrewAI", "NeMo Agent Toolkit", "LangChain", "Azure AI Foundry", "Amazon Bedrock"],
+    "currently":   "Building Keel: a privacy-first on-device financial agent for Android", "Wrapping up Witness: media authentication",
+    "certs":       ["AWS Certified GenAI Professional (Early Adopter, 2026)", "Azure AI Engineer Associate (AI-102)"],
+    "location":    "United Kingdom",
+    "open_to":     "AI Engineer roles · UK & Remote"
+}
+```
+---
 
 ```
 Crestward @github
@@ -30,41 +44,70 @@ Crestward @github
 <a href="https://github.com/Crestward"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 
-## 🎯 Skills
-<p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%230052CC.svg?logo=scikitlearn&logoColor=white"></a>
-  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apache-spark&logoColor=white"></a>
-  <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-%23FF7A00.svg?logo=databricks&logoColor=white"></a>
-  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power--BI-%2300A6ED.svg?logo=power-bi&logoColor=white"></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23007AC0.svg?logo=tableau&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2322A6F7.svg?logo=selenium&logoColor=white"></a>
-  <a href="#"><img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-%23FF6B6B.svg"></a>
-</p>
 
+## 🚀 Featured Projects
+
+### [Keel](https://github.com/Crestward/keel) — On-Device Financial Agent (Android)
+Privacy-first Android agent that reads bank SMS alerts and push notifications, parses transaction data locally using on-device LLM inference (Gemma 3 1B Q4_K_M via llama.cpp), and surfaces financial insights without cloud connectivity or bank API access.
+
+`llama.cpp` · `Gemma 3 1B` · `Android` · `AGPL-3.0` · `On-Device Inference` · `F-Droid`
+
+---
+
+### [Witness](https://github.com/Crestward/witness) — Cryptographic Media Authentication
+Secure data pipeline for tamper-proof media authentication using SHA-256 cryptographic hashing and ECDSA digital signatures — ensuring verifiable chain-of-custody for sensitive evidence documentation.
+
+`Python` · `Cryptography` · `SHA-256` · `ECDSA` · `Azure` · `React` · `TypeScript`
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / LLM Engineering
+![CrewAI](https://img.shields.io/badge/CrewAI-%23000000.svg?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logoColor=white)
+![NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-%23333333.svg?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-%236E4AFF.svg?style=flat&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+
+### Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=flat&logo=opentelemetry&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF7A00.svg?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apache-spark&logoColor=white)
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
+
+### AI Security
+![OWASP LLM](https://img.shields.io/badge/OWASP%20LLM%20Top%2010-%23000000.svg?style=flat&logo=owasp&logoColor=white)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE%20ATLAS-%23CC0000.svg?style=flat&logoColor=white)
+![Red Teaming](https://img.shields.io/badge/AI%20Red%20Teaming-%23FF4444.svg?style=flat&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-<p>
-  <a href="#"><img alt="AWS Solutions Architect" src="https://img.shields.io/badge/AWS%20Solutions%20Architect-2025-brightgreen"></a>
-  <a href="#"><img alt="DP-300" src="https://img.shields.io/badge/Microsoft_DP300-2025-blue"></a>
-  <a href="#"><img alt="PL-300" src="https://img.shields.io/badge/Microsoft_PL300-2025-blueviolet"></a>
-  <a href="#"><img alt="Google Cybersecurity" src="https://img.shields.io/badge/Google_Cybersecurity-2023-yellow"></a>
-  <a href="#"><img alt="IBM Data Science" src="https://img.shields.io/badge/IBM_Data_Science-2023-blue"></a>
-  <a href="#"><img alt="Cisco Cybersecurity" src="https://img.shields.io/badge/Cisco_Cybersecurity-2023-lightgrey"></a>
-  <a href="#"><img alt="AWS ML Foundations" src="https://img.shields.io/badge/AWS_ML_Foundations-2023-orange"></a>
-  <a href="#"><img alt="Immersive Labs OSINT" src="https://img.shields.io/badge/Immersive_OSINT-2023-success"></a>
-  <a href="#"><img alt="CFI Math" src="https://img.shields.io/badge/CFI_Math-2022-blue"></a>
-</p>
+![AWS GenAI Pro](https://img.shields.io/badge/AWS%20Certified%20GenAI%20Professional-Early%20Adopter%202026-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure AI-102](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate%20AI--102-2026-%230072C6?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2025-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![DP-300](https://img.shields.io/badge/Microsoft%20DP--300-2025-%230078D4?style=flat&logo=microsoft&logoColor=white)
+![PL-300](https://img.shields.io/badge/Microsoft%20PL--300-2025-%230078D4?style=flat&logo=microsoft&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-2023-%234285F4?style=flat&logo=google&logoColor=white)
+![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-2023-%231261FE?style=flat&logo=ibm&logoColor=white)
+
+---
 
 
 
@@ -148,7 +191,7 @@ Crestward @github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development or data analytics, or want to hire me to build web applications and unravel the hidden stories behind your data. feel free to <a href="mailto:oladimeji759@gmail.com">contact me through email</a> me. 
+If you have any questions about web development or AI engineering. Feel free to <a href="mailto:oladimeji759@gmail.com">contact me through email</a> me. 
 You can also check out my <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133">LinkedIn</a> profile 
 
   </td>
