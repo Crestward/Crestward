@@ -13,25 +13,14 @@
 
 ---
 ```
-crestward = {
-    "role":        "AI Engineer",
-    "focus":       ["Agentic AI", "LLM Engineering", "AI Red Teaming", "On-Device Inference"],
-    "stack":       ["CrewAI", "NeMo Agent Toolkit", "LangChain", "Azure AI Foundry", "Amazon Bedrock"],
-    "currently":   "Building Keel: a privacy-first on-device financial agent for Android", "Wrapping up Witness: media authentication",
-    "certs":       ["AWS Certified GenAI Professional (Early Adopter, 2026)", "Azure AI Engineer Associate (AI-102)"],
-    "location":    "United Kingdom",
-    "open_to":     "AI Engineer roles · UK & Remote"
-}
-```
----
-
-```
 Crestward @github
 -------------------------
 💻 I am a self taught Data Scientist and AI Solutions Architect
 🌱 I’m still currently learning everything 🤣
 📚 I have a Bachelors degree in Economics and Masters degree in Data Science 
 🔭 Working on Deep Learning & AL models
+🛡️Identifying and closing LLM security gaps before they reach production
+🤖  AI Engineer — agentic systems, LLM engineering, AI red teaming
 🌟 Main languages: Python & JavaScript
 🚩 Interested in using AI models in production environments
 💖 In a complicated relationship with several LLMs
@@ -173,14 +162,13 @@ Secure data pipeline for tamper-proof media authentication using SHA-256 cryptog
 </p>
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-|                                                                     Crestward's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crestward&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-|                                                                                                      Crestward's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Crestward&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -193,6 +181,8 @@ Secure data pipeline for tamper-proof media authentication using SHA-256 cryptog
 
 If you have any questions about web development or AI engineering. Feel free to <a href="mailto:oladimeji759@gmail.com">contact me through email</a> me. 
 You can also check out my <a href="https://www.linkedin.com/in/adeyemi-oladimeji-490696133">LinkedIn</a> profile 
+Particularly interested in teams building production-grade agentic systems, edge AI, or LLM infrastructure.
+
 
   </td>
   <td width="50%" valign="top">
