@@ -43,14 +43,15 @@ Privacy-first Android agent that reads bank SMS alerts and push notifications, p
 
 ---
 
-### [Witness](https://github.com/Crestward/witness) — Cryptographic Media Authentication
+### [Witness](https://github.com/Crestward/witness) — Cryptographic Media Authentication (Private Repo) 
+#### Website availabe at: [Witness](https://witness.beck-ai.com)
 Secure data pipeline for tamper-proof media authentication using SHA-256 cryptographic hashing and ECDSA digital signatures — ensuring verifiable chain-of-custody for sensitive evidence documentation.
 
 `Python` · `Cryptography` · `SHA-256` · `ECDSA` · `Azure` · `React` · `TypeScript`
 
 ---
 
-### [EdgeMoE](https://github.com/Crestward/Edge-Moe) — On-Device MoE Inference Framework (Android)
+### [EdgeMoE](https://github.com/Crestward/Edge-Moe) — On-Device MoE Inference Framework (Android) (Public Repo)
 Open-source framework for running Mixture-of-Experts language models directly on Android using LoRA adapters and lightweight routing. GPT-3.5-level responses for code, research, and general queries — fully offline, fully private.
 
 `llama.cpp` · `LoRA` · `MoE` · `Android` · `On-Device Inference` · `Open Source`
