@@ -4,9 +4,9 @@
 <br/>
 
 <!-- <img src="https://komarev.com/ghpvc/?Crestward" alt="Profile views" align='center'/> <a href="https://github.com/Crestward/Crestward"> </a>  -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines==AI+Engineer;Data+Scientist;Applied AI Developer;DS%20|%20AI%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+</p> -->
 
 <img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 <hr>
