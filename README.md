@@ -36,18 +36,25 @@ Crestward @github
 
 ## 🚀 Featured Projects
 
-### [Keel](https://github.com/Crestward/keel) — On-Device Financial Agent (Android)
-Privacy-first Android agent that reads bank SMS alerts and push notifications, parses transaction data locally using on-device LLM inference (Gemma 3 1B Q4_K_M via llama.cpp), and surfaces financial insights without cloud connectivity or bank API access.
-
-`llama.cpp` · `Gemma 3 1B` · `Android` · `AGPL-3.0` · `On-Device Inference` · `F-Droid`
-
----
-
 ### [Witness](https://github.com/Crestward/witness) — Cryptographic Media Authentication (Private Repo) 
 #### Website availabe at: [Witness](https://witness.beck-ai.com)
 Secure data pipeline for tamper-proof media authentication using SHA-256 cryptographic hashing and ECDSA digital signatures — ensuring verifiable chain-of-custody for sensitive evidence documentation.
 
 `Python` · `Cryptography` · `SHA-256` · `ECDSA` · `Azure` · `React` · `TypeScript`
+
+---
+
+### [Falcon](https://github.com/Crestward/falcon) — Multi-Agent Fraud Investigation Pipeline
+LangGraph supervisor orchestrating five specialist LLM agents (Triage, Account Historian, Network Mapper, Pattern Hunter, Case Writer) that investigate bank fraud alerts end-to-end and produce SAR-shaped case files, backed by Postgres + pgvector evidence store, four FastMCP tool servers, five custom guardrails, and a 30-alert evaluation harness with a cross-vendor LLM-as-judge.
+
+`LangGraph` · `Python` · `FastAPI` · `FastMCP` · `Postgres + pgvector` · `Presidio` · `Pydantic` · `Agentic`
+
+---
+
+### [Keel](https://github.com/Crestward/keel) — On-Device Financial Agent (Android)
+Privacy-first Android agent that reads bank SMS alerts and push notifications, parses transaction data locally using on-device LLM inference (Gemma 3 1B Q4_K_M via llama.cpp), and surfaces financial insights without cloud connectivity or bank API access.
+
+`llama.cpp` · `Gemma 3 1B` · `Android` · `AGPL-3.0` · `On-Device Inference` · `F-Droid`
 
 ---
 
